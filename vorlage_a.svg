@@ -8,12 +8,15 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
-   sodipodi:docname="vorlage.svg"
+   sodipodi:docname="vorlage_a.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#505050"
@@ -26,15 +29,15 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="6"
-     inkscape:cx="146.25"
-     inkscape:cy="159.16667"
+     inkscape:zoom="2.1213203"
+     inkscape:cx="491.20351"
+     inkscape:cy="379.95204"
      inkscape:window-width="3832"
      inkscape:window-height="2083"
      inkscape:window-x="3840"
      inkscape:window-y="73"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer3">
     <sodipodi:guide
        position="5.8685566,79.999998"
        orientation="0,-1"
@@ -74,7 +77,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       style="fill:#0000ff;fill-rule:evenodd;stroke:#003399;stroke-width:0;stroke-miterlimit:10;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000;stroke-opacity:0"
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#003399;stroke-width:0;stroke-miterlimit:10;stroke-opacity:0;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000"
        id="path7506"
        cx="39.995491"
        cy="39.995491"
@@ -90,25 +93,19 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LubalGraph Bk BT';-inkscape-font-specification:'LubalGraph Bk BT';stroke-width:0.264583"
          x="-1.0024704"
          y="-14.100078">OV FRIEDRICHSHAFEN</tspan></text>
-    <circle
-       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:10;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000;stroke-opacity:1;fill-opacity:1"
-       id="circle7608"
-       cx="39.995491"
-       cy="39.995491"
-       r="38.752121" />
-    <circle
-       style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+    <ellipse
+       style="fill:#b2ffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000"
        id="circle166287"
        cx="39.995491"
        cy="39.995491"
-       r="32.371021" />
+       rx="32.370998"
+       ry="32.371021" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="font2"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="circle7608-7"
        style="fill:none;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.288484">
@@ -120,8 +117,9 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:7.36864px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;stroke-width:0.184216"
-       id="text90292"><textPath
+       style="font-size:7.36864px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;stroke-width:0.184216;fill:#ffffff"
+       id="text90292"
+       transform="matrix(1.0205465,0,0,1.0205465,-0.76366199,-0.82049211)"><textPath
          xlink:href="#path139761"
          id="textPath148782">           OV FRIEDRICHSHAFEN</textPath></text>
   </g>
@@ -129,22 +127,68 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="font"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        xml:space="preserve"
-       style="font-size:7.36864px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;stroke-width:0.184216"
-       id="text17760"><textPath
+       style="font-size:7.36864px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.184216"
+       id="text17760"
+       transform="matrix(1.0093143,0,0,1.0093143,-0.37224305,-0.68004746)"><textPath
          xlink:href="#circle7588"
          id="textPath7657"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:'Analogue Reduced';-inkscape-font-specification:'Analogue Reduced, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">                                                 <tspan
-   style="font-size:4.93889px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:'Analogue Reduced';-inkscape-font-specification:'Analogue Reduced, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">                                                 <tspan
+   style="font-size:4.93889px;fill:#ffffff"
    id="tspan81798"> </tspan>TECHNISCHES HILFSWERK</textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.46403px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b2ffff;stroke-width:0.161601;fill-opacity:1"
+       id="text17760-3"
+       x="0.40445757"
+       y="47.622448">19</text>
     <circle
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.189024;paint-order:markers fill stroke;stop-color:#000000"
        id="circle7588"
        cx="39.999939"
        cy="40"
        r="33" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.46403px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b2ffff;stroke-width:0.161601;fill-opacity:1"
+       id="text2735"
+       x="0.40445757"
+       y="47.622448">19</text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.46403px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b2ffff;fill-opacity:1;stroke-width:0.161601"
+       id="text2839"
+       x="71.84198"
+       y="47.622448">53</text>
   </g>
+  <metadata
+     id="metadata3060">
+    <rdf:RDF>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>L3D &lt;l3d@c3woc.de&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>
