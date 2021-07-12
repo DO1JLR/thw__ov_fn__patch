@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
-   sodipodi:docname="thw_patch_1a.svg"
+   sodipodi:docname="thw_patch_1b.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -37,7 +37,7 @@
      inkscape:window-x="3840"
      inkscape:window-y="73"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer5">
     <sodipodi:guide
        position="5.8685566,79.999998"
        orientation="0,-1"
@@ -58,6 +58,10 @@
        position="-6.9398002,39.998306"
        orientation="0,-1"
        id="guide2877" />
+    <sodipodi:guide
+       position="69.320831,23.114583"
+       orientation="0,-1"
+       id="guide23699" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -208,19 +212,21 @@
   <g
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     sodipodi:insensitive="true">
     <circle
-       style="fill:#0000ff;fill-rule:evenodd;stroke:#003399;stroke-width:0;stroke-miterlimit:10;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000;stroke-opacity:0"
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#003399;stroke-width:0;stroke-miterlimit:10;stroke-opacity:0;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000"
        id="path7506"
        cx="39.995491"
        cy="39.995491"
        r="40" />
-    <circle
-       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:10;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000;stroke-opacity:1;fill-opacity:1"
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000"
        id="circle7608"
        cx="39.995491"
        cy="39.995491"
-       r="38.752121" />
+       rx="38.751999"
+       ry="38.752121" />
     <circle
        style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000"
        id="circle166287"
@@ -320,7 +326,10 @@
        style="font-size:7.36864px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;stroke-width:0.184216"
        id="text90292"><textPath
          xlink:href="#path139761"
-         id="textPath148782">           OV FRIEDRICHSHAFEN</textPath></text>
+         id="textPath148782"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LubalGraph Bk BT';-inkscape-font-specification:'LubalGraph Bk BT'">         <tspan
+   style="font-size:3.175px"
+   id="tspan27639"> </tspan>OV FRIEDRICHSHAFEN</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -334,8 +343,8 @@
        id="text17760"><textPath
          xlink:href="#circle7588"
          id="textPath7657"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:'Analogue Reduced';-inkscape-font-specification:'Analogue Reduced, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">                                                 <tspan
-   style="font-size:4.93889px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:'LubalGraph Bk BT';-inkscape-font-specification:'LubalGraph Bk BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">                                                   <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'LubalGraph Bk BT';-inkscape-font-specification:'LubalGraph Bk BT'"
    id="tspan81798"> </tspan>TECHNISCHES HILFSWERK</textPath></text>
     <circle
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.189024;paint-order:markers fill stroke;stop-color:#000000"
@@ -347,22 +356,28 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="f3">
+     inkscape:label="f3"
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
-       style="font-size:5.4918px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.137295;fill:#0000ff"
+       style="font-size:5.84988px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;stroke-width:0.146247"
        id="text17760-6"
-       x="1.392164"
-       y="46.811451">19 </text>
+       x="1.0008483"
+       y="46.791088"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LubalGraph Bk BT';-inkscape-font-specification:'LubalGraph Bk BT';stroke-width:0.146247"
+   id="tspan36241">19</tspan> </text>
     <text
        xml:space="preserve"
-       style="font-size:5.4918px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.137295;fill:#0000ff"
+       style="font-size:5.84988px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;stroke-width:0.146247"
        id="text3210"
-       x="71.748062"
-       y="47.045959">53</text>
+       x="71.710831"
+       y="47.04089"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LubalGraph Bk BT';-inkscape-font-specification:'LubalGraph Bk BT';stroke-width:0.146247"
+         id="tspan40699">53</tspan></text>
   </g>
   <metadata
-     id="metadata897">
+     id="metadata40865">
     <rdf:RDF>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by/4.0/">
