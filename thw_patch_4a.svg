@@ -30,8 +30,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="1.5"
-     inkscape:cx="233.33334"
-     inkscape:cy="446.66668"
+     inkscape:cx="-12.666667"
+     inkscape:cy="446.66667"
      inkscape:window-width="3832"
      inkscape:window-height="2083"
      inkscape:window-x="3840"
@@ -325,7 +325,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="elements">
+     inkscape:label="elements"
+     sodipodi:insensitive="true">
     <path
        d="m 12.120561,16.674752 c 0,0 -6.3687917,17.528484 -5.5857679,29.259884 0.1389102,2.081187 2.0525188,4.905722 2.1547075,6.051651 0.644074,7.225273 5.5024584,11.94543 10.9986084,17.109638 5.991835,4.890977 12.644652,6.725323 20.356418,6.725323 0,0 -0.04229,-72.6756486 0.200498,-69.9341126 C 28.884305,6.8980258 21.076398,12.533501 12.120561,16.674752 Z"
        connector-curvature="0"
@@ -344,7 +345,7 @@
        sodipodi:nodetypes="csccccc" />
     <path
        stroke-linejoin="miter"
-       d="m 40.004821,6.1420762 0,69.2004898"
+       d="M 40.004821,6.1420762 V 75.342566"
        connector-curvature="0"
        stroke="#231f20"
        stroke-linecap="butt"
@@ -1130,8 +1131,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="font2"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="circle7608-7"
        style="fill:none;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.288484">
@@ -1153,8 +1153,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="font"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-size:7.36864px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.184216"
