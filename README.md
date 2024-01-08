@@ -28,3 +28,8 @@ done
 
 # pdftk PDF1.pdf PDF2.pdf cat output PDF3.pdf
 ```
+
+## Git Mirrors
+Dieses git Repo findet man an folgenden Orten:
++ Github: [github.com/DO1JLR/thw__ov_fn__patch](https://github.com/DO1JLR/thw__ov_fn__patch.git)
++ Gitea: [git.l3d.ch/thw/patch_ov_fn](https://git.l3d.ch/thw/patch_ov_fn.git)
