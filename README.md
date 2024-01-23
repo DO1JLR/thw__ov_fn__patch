@@ -8,25 +8,10 @@ In der History dieses Repos gibt es einen Einblick in unterschiedliche varriante
 ![THW Path OV FN](thw_patch_ov_fn.svg)
 
 # Lizenz:
-[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/de/)
+Dieser Patch steht unter der [CC-BY-SA-4.0](http://creativecommons.org/licenses/by-sa/4.0/) Lizenz, das bedeutet dass der Patch unter der Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz steht. Gemäß dieser Lizenz dürft Ihr den Patch frei nutzen, verbreiten, bearbeiten und darauf aufbauen, solange Ihr den Urheber (L3D <l3d@c3woc.de>) korrekt nennt und das abgeleitete Werk unter denselben Bedingungen freigebt.
 ```
 Urheber: L3D <l3d@c3woc.de>
-https://creativecommons.org/licenses/by/3.0/de/
-```
-
-## Tipps for exporting
-*Mit folgenden parametern lässt sich ein PDF mit 300 DPI aus dem SVG exportieren*
-```bash
-for i in *.svg
-do
-    echo "Export: $i"
-    inkscape \
-    --actions="export-filename:$i.pdf; export-do;"\
-    --export-dpi 300 \
-    $i
-done
-
-# pdftk PDF1.pdf PDF2.pdf cat output PDF3.pdf
+http://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 ## Git Mirrors
@@ -36,3 +21,8 @@ Dieses git Repo findet man an folgenden Orten:
 
 ## Sonstiges
 Fonts: ``LubalGraph Bk BT``
+Colors:
+  - Black
+  - White
+  - Blue (Ultramarin, RAL: 5002, RGB: ``#120a8f``)
+  - Gray (RGB: ``#999999``)
